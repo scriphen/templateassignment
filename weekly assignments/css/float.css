@@ -1,0 +1,157 @@
+/* google font cdn */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:wght@300&display=swap');
+/* title section of template */
+ .links{
+    list-style-type: none;
+    float:left;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+ul{
+    padding: 0;
+}
+
+a:hover{
+    color:#04AA6D;
+}
+.first-let{
+    color:#04AA6D;
+}
+a{ 
+    text-decoration: none;
+}
+
+h1{
+    width:200px;
+    margin: 2% auto;
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.first-image{
+    width:98%;
+    margin-top: 20px;
+    margin-bottom: 30px; 
+    margin-left: 1%;
+    margin-right: 1%;
+}
+/* body section */
+.body-section{
+    float: left;
+    width:31.333333%;
+    margin:0 1%;
+    text-align: center;
+    background-color: #04AA6D;
+}
+.product-section{
+    margin-bottom: 0;
+    margin-top: 0;
+    padding:15px;
+    color:#fff;
+   }
+.body-paragraph{
+    text-align: left;
+    background-color: #152D35;
+    color:#fff;
+    margin:0;
+    padding: 20px 15px;
+    border-bottom-right-radius:50px;
+}
+.body-image1 {
+   max-width:100%;
+   margin: 0;
+   padding: 0;
+}
+.title-card{
+    list-style-type: none;
+    float:left;
+    margin:2% 10%;
+    padding: 5px 30px;
+    background-color: aqua;
+}
+.clearfix{
+    clear:both;
+}
+/* footer section */
+/* footer top section */
+.footer-section{
+        float: left;
+        width:31.333333%;
+        margin:0 1%;
+        text-align: center;
+}
+.footer-paragraph{
+    text-align: left;
+    line-height: 1.5;
+}
+.footer-section ul li{
+    line-height:1.5;
+    list-style-type: lower-roman;
+}
+.footer-section h3{
+    text-align: left;
+    color:#04AA6D;
+}
+.footer-btn{
+    color:#fff;
+    background-color: #555;
+    padding: 5px;
+    margin-bottom:20px;
+    margin-top: 10px;
+    float:left;
+    clear: left;
+}
+/* footer bottom section */
+.footer-content{
+    float: left;
+    width:35%;
+    margin-right:1%;
+    margin-top: 2%;
+    padding: 18px 20px;
+    background-color: #555;
+    color:#fff; 
+}
+.icon{
+    float: left;
+    width:10%;
+    background-color:#C0E218;
+    text-align: center;
+    margin-top:2%;
+    margin-bottom:2%;
+    margin-left: 1%;
+    padding-top:47px;
+    height:130px;
+    font-size:70px;
+}
+hr{
+    margin: 0;
+}
+.footer-content h2{
+    color:#80ED99;
+}
+/* copy right section */
+.copy-right{
+    text-align: center;
+    margin:0;
+    padding:30px 40px;
+    background-color: #F3F1F5;
+}
+p,li{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
